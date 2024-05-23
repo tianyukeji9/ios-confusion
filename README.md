@@ -16,7 +16,7 @@
 ## 半年13.5k（总共节省：1.5k）
 ## 一年26k（总共节省：4k）
 ## 收款码
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/new.png)
+![image]([https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/new.png](https://github.com/tianyukeji9/ios-confusion/blob/main/11591716440865_.pic.jpg))
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp、React-Native（TS、JS、VUE、NVUE）、Android（Java、Kotlin）、微信小程序（js、wxss、wxml、json）)
 ## 支持项目类型：(iOS App、Cocos2dx、CocosCreater、Unity3D、Flutter、UniApp、React-Native、H5、Android、微信小程序)
