@@ -56,10 +56,6 @@
 
 ## 软件界面展示
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/new.png)
-## IPA上传文件助手Windows版本
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ipa_windows.png)
-## IPA上传文件助手Mac版本
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ipa_mac.png)
 ## 老版本
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
 
