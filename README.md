@@ -9,6 +9,13 @@
 #### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办android软著
 #### 唯一联系方式 微信：SummerDay99999
 
+## 混淆费用介绍： 
+## 
+## 月2.5k 无优惠
+## 季度7k（总共节省：0.5k）
+## 半年13.5k（总共节省：1.5k）
+## 一年26k（总共节省：4k）
+
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp、React-Native（TS、JS、VUE、NVUE）、Android（Java、Kotlin）、微信小程序（js、wxss、wxml、json）)
 ## 支持项目类型：(iOS App、Cocos2dx、CocosCreater、Unity3D、Flutter、UniApp、React-Native、H5、Android、微信小程序)
 ## 混淆亮点：支持固定混淆，扰乱改变函数里面原有调用顺序(最新版本支持)，游戏sks二进制文件混淆同步图片名称
