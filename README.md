@@ -64,8 +64,8 @@
 -  ☑ 29.支持生成额外代码文件并自动调用（swift, oc, java）
 
 ## 软件界面展示
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/new.png)
+![image](https://github.com/tianyukeji9/ios-confusion/blob/main/ConfuseSoftware/new.png)
 ## 老版本
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
+![image](https://github.com/tianyukeji9/ios-confusion/blob/master/ConfuseSoftware/ui.png)
 
 ## 注：该软件不能被用于一切非法用途，若使用该软件造成一切不良后果与作者本人无关，使用者自行负责，该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
